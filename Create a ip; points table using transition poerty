@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="iplpiont.css">
+</head>
+<body>
+    <h1 style="color: rgb(20, 13, 243); font-family: fantasy;">Welcome To Tata IPl </h1>
+    <div id="main" >
+        <div id="pnttab">
+            <div id="pnt1">2</div>
+            <div id="pnt2">4</div>
+            <div id="pnt3">6</div>
+            <div id="pnt4">8</div>
+            <div id="pnt5">10</div>
+         </div>
+    <div id="maingrp">
+       <div id="csk">Csk</div>
+       <div id="rcb">Rcb</div>
+       <div id="kkr">kkr</div>
+       <div id="mi">Mi</div>
+       <div id="rr">RR</div>
+    </div>
+    
+</div>
+    <h2 style="color: rgb(250, 76, 12);">----------Ipl Point table 2023 ---------</h2>
+</body>
+</html>

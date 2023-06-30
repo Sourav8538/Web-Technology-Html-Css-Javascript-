@@ -10,7 +10,7 @@
   <dl>
     <h1>Lets Starts With HTML</h1>
     <dt>HTML</dt>
-    <dd>HYpertext ( Hyperlink+Text )           Markup( Inbuild Tags )                Language ( Compilation to machine readble format)</dd>
+    <dd>HYpertext ( Hyperlink+Text )           Markup( Inbuild Tags )                Language ( Communication B/W M/c & Web pages....)</dd>
                 
   </dl>
   
